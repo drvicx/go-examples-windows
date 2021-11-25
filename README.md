@@ -1,2 +1,2 @@
 # go-examples-windows
-Various examples of GoLang Windows applications
+My various examples of GoLang Windows applications
